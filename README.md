@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/robel-tesfu/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/robel-tesfu/DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/robel-tesfu/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/robel-tesfu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/robel-tesfu/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/robel-tesfu/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/robel-tesfu/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/robel-tesfu/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
