@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/robel-tesfu/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/robel-tesfu/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/robel-tesfu/DSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/robel-tesfu/DSA/tree/master/0048-rotate-image) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/robel-tesfu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/robel-tesfu/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/robel-tesfu/DSA/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/robel-tesfu/DSA/tree/master/0048-rotate-image) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/robel-tesfu/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/robel-tesfu/DSA/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
