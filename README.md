@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/robel-tesfu/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/robel-tesfu/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/robel-tesfu/DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/robel-tesfu/DSA/tree/master/0043-multiply-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/robel-tesfu/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/robel-tesfu/DSA/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/robel-tesfu/DSA/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/robel-tesfu/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
